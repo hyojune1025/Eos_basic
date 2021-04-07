@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignmnet/Assignmnet.iml" filepath="$PROJECT_DIR$/Assignmnet/Assignmnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eos_star/Eos_star.iml" filepath="$PROJECT_DIR$/Eos_star/Eos_star.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/eos_basic.iml" filepath="$PROJECT_DIR$/.idea/eos_basic.iml" />
     </modules>
   </component>
