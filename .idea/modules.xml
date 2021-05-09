@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assignmnet/Assignmnet.iml" filepath="$PROJECT_DIR$/Assignmnet/Assignmnet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eos_star/Eos_star.iml" filepath="$PROJECT_DIR$/Eos_star/Eos_star.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture04/Lecture04.iml" filepath="$PROJECT_DIR$/Lecture04/Lecture04.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/eos_basic.iml" filepath="$PROJECT_DIR$/.idea/eos_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4.iml" filepath="$PROJECT_DIR$/week4/week4.iml" />
     </modules>
   </component>
 </project>
