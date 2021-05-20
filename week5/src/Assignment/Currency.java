@@ -1,8 +1,8 @@
 package Assignment;
 
 public class Currency {
-    double price;
-    String unit;
+    public double price;
+    public String unit;
     Currency(double price,String unit){
         this.price = price;
         this.unit = unit;
